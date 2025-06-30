@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  face_auth_app:
+    build: .
+    ports:
+      - "8000:8000"  
+      - "8501:8501"  
+    volumes:
+      - ./face_store:/app/face_store
+      - ./chroma_db:/app/chroma_db
+    restart: always

@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+deepface
+chromadb
+python-multipart
+numpy
+tf-keras
+streamlit
