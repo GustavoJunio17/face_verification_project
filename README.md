@@ -11,7 +11,7 @@ Este projeto é um sistema simples de cadastro e login facial com e-mail e senha
 ---
 
 ## Objetivo do Projeto
-Criar um sistema simples de cadastro e autenticação facial usando inteligência artificial para extração de características faciais. O objetivo é permitir login seguro por meio de reconhecimento facial, combinando biometria com autenticação tradicional (e-mail e senha).
+Criar um sistema simples de cadastro e autenticação facial usando inteligência artificial para extração de características faciais. O objetivo é permitir login seguro por meio de reconhecimento facial com autenticação tradicional (e-mail e senha).
 
 ---
 
