@@ -114,6 +114,13 @@ http://localhost:8501
 - python-multipart
 
 ---
+## Tela de Cadastro
+![Tela de Cadastro](imagens/cadastro.png)
+
+## Tela de Login
+![Tela de Login](imagens/login.png)
+
+---
 
 ## Autores
 - GUSTAVO JUNIO FERREIRA RODRIGUES | gustavo.2149337@discente.uemg.br
