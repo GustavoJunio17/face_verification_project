@@ -92,7 +92,7 @@ http://localhost:8501
 ---
 
 ## Estrutura do Projeto
-
+```
 ├── app/ 
 │ ├── models/ 
 │ │ ├── init.py
@@ -119,6 +119,7 @@ http://localhost:8501
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
