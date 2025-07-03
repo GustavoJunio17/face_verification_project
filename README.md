@@ -93,13 +93,32 @@ http://localhost:8501
 
 ## Estrutura do Projeto
 
-├── face_store/          
-├── chroma_db/           
-├── main.py            
-├── dashboard.py         
-├── requirements.txt     
-├── Dockerfile         
-└── README.md            
+├── app/   
+      ├── models/
+              ├── __init__.py
+              └── user_model.py
+      ├── routes/
+              ├── __init__.py
+              └── user_routes.py
+      ├── services/
+              ├── __init__.py
+              ├── chroma_service.py
+              ├── face_service.py
+              └── password_service.py
+      ├── utils/
+              ├── __init__.py
+              └── image_utils.py
+      ├── __init__.py
+      └── main.py
+├── imagens/  
+      ├── cadastro.png
+      └── login.png
+├── web/  
+      └── streamlit_app.py
+├── Dockerfile  
+├── README.md   
+├── docker-compose.yml       
+└── requirements.txt           
 
 ---
 
