@@ -93,13 +93,13 @@ http://localhost:8501
 
 ## Estrutura do Projeto
 
-├── face_store/          # Imagens armazenadas localmente
-├── chroma_db/           # Banco vetorial persistente do ChromaDB
-├── main.py              # Código da API FastAPI
-├── dashboard.py         # Frontend Streamlit
-├── requirements.txt     # Dependências Python
-├── Dockerfile           # Configuração Docker
-└── README.md            # Este arquivo
+├── face_store/          
+├── chroma_db/           
+├── main.py            
+├── dashboard.py         
+├── requirements.txt     
+├── Dockerfile         
+└── README.md            
 
 ---
 
