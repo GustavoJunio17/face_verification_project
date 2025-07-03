@@ -93,32 +93,32 @@ http://localhost:8501
 
 ## Estrutura do Projeto
 
-├── app/   
-      ├── models/
-              ├── __init__.py
-              └── user_model.py
-      ├── routes/
-              ├── __init__.py
-              └── user_routes.py
-      ├── services/
-              ├── __init__.py
-              ├── chroma_service.py
-              ├── face_service.py
-              └── password_service.py
-      ├── utils/
-              ├── __init__.py
-              └── image_utils.py
-      ├── __init__.py
-      └── main.py
-├── imagens/  
-      ├── cadastro.png
-      └── login.png
-├── web/  
-      └── streamlit_app.py
-├── Dockerfile  
-├── README.md   
-├── docker-compose.yml       
-└── requirements.txt           
+├── app/ 
+│ ├── models/ 
+│ │ ├── init.py
+│ │ └── user_model.py 
+│ ├── routes/ 
+│ │ ├── init.py
+│ │ └── user_routes.py 
+│ ├── services/
+│ │ ├── init.py
+│ │ ├── chroma_service.py
+│ │ ├── face_service.py 
+│ │ └── password_service.py
+│ ├── utils/
+│ │ ├── init.py
+│ │ └── image_utils.py 
+│ ├── init.py
+│ └── main.py 
+├── imagens/
+│ ├── cadastro.png
+│ └── login.png
+├── web/
+│ └── streamlit_app.py
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
 
 ---
 
